@@ -1,0 +1,10 @@
+bybit
+pybit
+pycryptodome
+pandas
+numpy
+python-dotenv
+ta
+pyyaml
+pytest
+pytest-mock

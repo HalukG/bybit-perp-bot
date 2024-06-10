@@ -1,0 +1,6 @@
+api:
+  key: ''
+  secret: ''
+
+trading:
+  strategy: 'scalping_strategy'
